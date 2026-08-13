@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "charada": "Tenho cidades, mas não casas. Tenho montanhas, mas não pedras. Tenho rios, mas não água. O que sou eu?",
+    "dicas": [
+      "Representa lugares do mundo real.",
+      "Pode ser dobrado e guardado na mochila.",
+      "Geógrafos e viajantes usam muito."
+    ]
+  },
+  {
+    "id": 2,
+    "charada": "Quanto mais você tira de mim, mais forte eu fico. O que sou eu?",
+    "dicas": [
+      "Feita de elos metálicos.",
+      "Usada para prender ou segurar.",
+      "Quanto mais unida, mais resistente."
+    ]
+  },
+  {
+    "id": 3,
+    "charada": "Ando sem pernas, entro sem bater e saio sem ser convidado. O que sou eu?",
+    "dicas": [
+      "Sopra entre as dunas do deserto.",
+      "Move folhas e bandeiras.",
+      "Não se vê, mas se sente."
+    ]
+  },
+  {
+    "id": 4,
+    "charada": "Tenho chaves, mas não abro portas. Tenho espaço, mas não quartos. O que sou eu?",
+    "dicas": [
+      "Usado para digitar mensagens.",
+      "Possui letras e símbolos.",
+      "Conectado ao computador."
+    ]
+  },
+  {
+    "id": 5,
+    "charada": "Quanto mais seco fico, mais molhado fico. O que sou eu?",
+    "dicas": [
+      "Usado para limpar o rosto.",
+      "Absorve líquidos.",
+      "Fica em banheiros e cozinhas."
+    ]
+  },
+  {
+    "id": 6,
+    "charada": "Tenho cabeça e cauda, mas não tenho corpo. O que sou eu?",
+    "dicas": [
+      "Usada para pagar e receber.",
+      "Feita de metal.",
+      "Cai no chão e faz barulho."
+    ]
+  },
+  {
+    "id": 7,
+    "charada": "Quanto mais você tira, mais eu peso. O que sou eu?",
+    "dicas": [
+      "Fica no chão do mar.",
+      "Tem buracos por onde a água passa.",
+      "Pescadores usam para pegar peixes."
+    ]
+  },
+  {
+    "id": 8,
+    "charada": "Nasci grande e morri pequeno. O que sou eu?",
+    "dicas": [
+      "Usada em festas e aniversários.",
+      "Tem um pavio que se acende.",
+      "Derrete conforme queima."
+    ]
+  },
+  {
+    "id": 9,
+    "charada": "Tenho olhos, mas não vejo. Tenho boca, mas não falo. O que sou eu?",
+    "dicas": [
+      "Usado para costurar roupas.",
+      "Tem furo pequeno na ponta.",
+      "Passa linha por dentro."
+    ]
+  },
+  {
+    "id": 10,
+    "charada": "Quanto mais velho fico, mais valioso me torno. O que sou eu?",
+    "dicas": [
+      "Guardado em garrafas especiais.",
+      "Feito de uvas fermentadas.",
+      "Melhora com o tempo."
+    ]
+  },
+  {
+    "id": 11,
+    "charada": "Tenho dentes, mas não mordo. O que sou eu?",
+    "dicas": [
+      "Usado para pentear cabelos.",
+      "Tem dentes finos e regulares.",
+      "Encontra-se em banheiros."
+    ]
+  },
+  {
+    "id": 12,
+    "charada": "Quanto mais você me usa, mais fino eu fico. O que sou eu?",
+    "dicas": [
+      "Usado para escrever e desenhar.",
+      "Tem grafite no centro.",
+      "Aponta-se quando fica curto."
+    ]
+  },
+  {
+    "id": 13,
+    "charada": "Tenho pés, mas não ando. Tenho braços, mas não abraço. O que sou eu?",
+    "dicas": [
+      "Usada para sentar e descansar.",
+      "Tem quatro pernas.",
+      "Fica em salas e cozinhas."
+    ]
+  },
+  {
+    "id": 14,
+    "charada": "Quanto mais alto sobe, mais fino fica. O que sou eu?",
+    "dicas": [
+      "Sai da chaleira quente.",
+      "Visível no ar frio.",
+      "Desaparece no céu."
+    ]
+  },
+  {
+    "id": 15,
+    "charada": "Tenho asas, mas não voo. Tenho cauda, mas não sou animal. O que sou eu?",
+    "dicas": [
+      "Usado para enviar cartas.",
+      "Cola-se no verso do envelope.",
+      "Tem valor para correios."
+    ]
+  },
+  {
+    "id": 16,
+    "charada": "Quanto mais você me enche, mais leve eu fico. O que sou eu?",
+    "dicas": [
+      "Usado em festas e balões.",
+      "Enche-se com ar ou gás.",
+      "Flutua quando cheio."
+    ]
+  },
+  {
+    "id": 17,
+    "charada": "Tenho rosto, mas não tenho corpo. Tenho mãos, mas não tenho braços. O que sou eu?",
+    "dicas": [
+      "Marca as horas do dia.",
+      "Tem ponteiros que giram.",
+      "Fica na parede ou pulso."
+    ]
+  },
+  {
+    "id": 18,
+    "charada": "Quanto mais escuro fica o céu, mais brilhante eu fico. O que sou eu?",
+    "dicas": [
+      "Aparece à noite no céu.",
+      "Guia viajantes no deserto.",
+      "Brilha distante e fixo."
+    ]
+  },
+  {
+    "id": 19,
+    "charada": "Tenho folhas, mas não sou árvore. Tenho capa, mas não sou livro. O que sou eu?",
+    "dicas": [
+      "Usado para anotar receitas.",
+      "Tem páginas em branco.",
+      "Guarda ideias e lembretes."
+    ]
+  },
+  {
+    "id": 20,
+    "charada": "Quanto mais você me corta, mais eu cresço. O que sou eu?",
+    "dicas": [
+      "Cresce no topo da cabeça.",
+      "Vai ao cabeleireiro.",
+      "Pode ser longo ou curto."
+    ]
+  },
+  {
+    "id": 21,
+    "charada": "Tenho pescoço, mas não tenho cabeça. O que sou eu?",
+    "dicas": [
+      "Usada para servir vinho.",
+      "Feita de vidro ou cerâmica.",
+      "Tem formato elegante."
+    ]
+  },
+  {
+    "id": 22,
+    "charada": "Quanto mais você me guarda, mais eu sumo. O que sou eu?",
+    "dicas": [
+      "Aparece em vidros e espelhos.",
+      "Forma-se com calor e umidade.",
+      "Some quando o ar esquenta."
+    ]
+  },
+  {
+    "id": 23,
+    "charada": "Tenho agulha, mas não costuro. Tenho números, mas não conto. O que sou eu?",
+    "dicas": [
+      "Usado para medir temperatura.",
+      "Mostra se está quente ou frio.",
+      "Tem mercúrio ou álcool dentro."
+    ]
+  },
+  {
+    "id": 24,
+    "charada": "Quanto mais você me esconde, mais eu apareço. O que sou eu?",
+    "dicas": [
+      "Aparece no rosto envergonhado.",
+      "Deixa as bochechas vermelhas.",
+      "Sinal de timidez."
+    ]
+  },
+  {
+    "id": 25,
+    "charada": "Tenho coroa, mas não sou rei. Tenho raiz, mas não sou planta. O que sou eu?",
+    "dicas": [
+      "Usado para proteger a cabeça do sol.",
+      "Tem aba na frente.",
+      "Usado em praias e campos."
+    ]
+  },
+  {
+    "id": 26,
+    "charada": "Quanto mais você me quebra, mais eu brilho. O que sou eu?",
+    "dicas": [
+      "Formado por gotas de chuva e sol.",
+      "Tem cores no céu.",
+      "Aparece após a tempestade."
+    ]
+  },
+  {
+    "id": 27,
+    "charada": "Tenho barba, mas não sou homem. Tenho olhos, mas não vejo. O que sou eu?",
+    "dicas": [
+      "Cresce no campo e pomar.",
+      "Vermelho e doce por dentro.",
+      "Usado em saladas e sucos."
+    ]
+  },
+  {
+    "id": 28,
+    "charada": "Quanto mais você me aperta, mais eu escorrego. O que sou eu?",
+    "dicas": [
+      "Usado para untar pães.",
+      "Feito de leite ou plantas.",
+      "Derrete com calor."
+    ]
+  },
+  {
+    "id": 29,
+    "charada": "Tenho escamas, mas não sou peixe. Tenho asas, mas não voo. O que sou eu?",
+    "dicas": [
+      "Cresce em árvores tropicais.",
+      "Amarelo por fora, branco por dentro.",
+      "Fruta doce e curva."
+    ]
+  },
+  {
+    "id": 30,
+    "charada": "Quanto mais você me olha, mais eu desapareço. O que sou eu?",
+    "dicas": [
+      "Aparece quando você dorme.",
+      "Pode ser doce ou assustador.",
+      "Some ao acordar."
+    ]
+  }
+]
